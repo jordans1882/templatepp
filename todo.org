@@ -1,0 +1,4 @@
+* TODO Write matrix minor with copy
+* TODO Write matrix multiplication with copy
+* TODO Write matrix transpose (trans)
+
